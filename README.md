@@ -1,6 +1,6 @@
-# Restaurant
+# Restaurants
 
-Restaurant reviews application with accesibility and responsiveness in mind.
+Restaurants reviews application with accesibility and responsiveness in mind.
 
 This is an exercise build for Udacity Senior Web Developer Nanodegree program. I tried to build a 
 good, responsive and accessible user experience using HTML5 semantic elements and ES6 without any JS or Styling Framework (No Bootstrap or AngularJS in this one).
