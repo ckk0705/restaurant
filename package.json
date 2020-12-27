@@ -1,5 +1,5 @@
 {
-  "name": "restaurants",
+  "name": "restaurant",
   "version": "1.0.0",
   "description": "A restaurant reviews app with w11a in mind",
   "main": "index.html",
@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/juanmirod/restaurants"
+    "url": "https://github.com/ckk0705/restaurant"
   },
   "keywords": [
     "w11a",
     "html5"
   ],
-  "author": "juanmirod",
+  "author": "ckk0705",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/juanmirod/restaurants/issues"
+    "url": "https://github.com/ckk0705/restaurant/issues"
   },
-  "homepage": "https://github.com/juanmirod/restaurants",
+  "homepage": "https://github.com/ckk0705/restaurant",
   "devDependencies": {
     "babel-preset-es2015": "^6.14.0",
     "babelify": "^7.3.0",
